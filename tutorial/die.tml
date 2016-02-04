@@ -1,0 +1,7 @@
+class DieClass {
+subparts Throw[10];
+}
+
+class Throw {
+Face One 1.0, Two 0.0, Three 0.0, Four 0.0, Five 0.0, Six 0.0;
+}

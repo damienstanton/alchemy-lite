@@ -1,0 +1,7 @@
+class CoinClass {
+subparts Flip[20];
+relations Heads(Flip) 0.0;
+}
+
+class Flip {
+}

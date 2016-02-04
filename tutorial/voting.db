@@ -1,0 +1,172 @@
+WorldClass World {
+Person[1] Obj191, Person[2] Obj192, Person[3] Obj193, Person[4] Obj194, Person[5] Obj195, Person[6] Obj196, Person[7] Obj197, Person[8] Obj198, Person[9] Obj199, Person[10] Obj200, Person[11] Obj201, Person[12] Obj202, Person[13] Obj203, Person[14] Obj204, Person[15] Obj205, Person[16] Obj206, Person[17] Obj207, Person[18] Obj208, Person[19] Obj209, Person[20] Obj210, Person[21] Obj211, Person[22] Obj212, Person[23] Obj213, Person[24] Obj214, Person[25] Obj215, Person[26] Obj216, Person[27] Obj217, Person[28] Obj218, Person[29] Obj219, Person[30] Obj220, Person[31] Obj221, Person[32] Obj222, Person[33] Obj223, Person[34] Obj224, Person[35] Obj225, Person[36] Obj226, Person[37] Obj227, Person[38] Obj228, Person[39] Obj229, Person[40] Obj230, Person[41] Obj231, Person[42] Obj232;
+}
+
+Person Obj191 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj192 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj193 {
+HandicappedInfants(), !WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj194 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), Immigration(), SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj195 {
+HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), !Crime(), !DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj196 {
+HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj197 {
+!HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj198 {
+!HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), !MxMissile(), Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj199 {
+!HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj200 {
+!HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj201 {
+!HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), EducationSpending(), !SuperfundRightToSue(), Crime(), !DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj202 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj203 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj204 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj205 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj206 {
+HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj207 {
+HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), !ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), !Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj208 {
+HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj209 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), !Crime(), DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj210 {
+!HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj211 {
+!HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), Immigration(), SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj212 {
+HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj213 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj214 {
+HandicappedInfants(), !WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), MxMissile(), Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj215 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj216 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), !ExportAdministrationActSouthAfrica();
+}
+
+Person Obj217 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj218 {
+HandicappedInfants(), !WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj219 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj220 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), !ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj221 {
+HandicappedInfants(), WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), !MxMissile(), Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj222 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), !ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj223 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), !ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), !MxMissile(), Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj224 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), !ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), !Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj225 {
+HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), !MxMissile(), Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj226 {
+!HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), !MxMissile(), !Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), SuperfundRightToSue(), !Crime(), DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj227 {
+!HandicappedInfants(), !WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), !Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj228 {
+!HandicappedInfants(), WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), !Immigration(), SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), Crime(), DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj229 {
+HandicappedInfants(), !WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), !ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj230 {
+!HandicappedInfants(), !WaterProjectCostSharing(), !AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), !MxMissile(), Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj231 {
+!HandicappedInfants(), !WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), PhysicianFeeFreeze(), ElSalvadorAid(), ReligiousGroupsInSchools(), !AntiSatelliteTestBan(), !AidToNicaraguanContras(), MxMissile(), Immigration(), !SynfuelsCorporationCutback(), EducationSpending(), SuperfundRightToSue(), Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+
+Person Obj232 {
+!HandicappedInfants(), !WaterProjectCostSharing(), AdoptionOfTheBudgetResolution(), !PhysicianFeeFreeze(), !ElSalvadorAid(), !ReligiousGroupsInSchools(), AntiSatelliteTestBan(), AidToNicaraguanContras(), MxMissile(), Immigration(), !SynfuelsCorporationCutback(), !EducationSpending(), !SuperfundRightToSue(), !Crime(), !DutyFreeExports(), ExportAdministrationActSouthAfrica();
+}
+

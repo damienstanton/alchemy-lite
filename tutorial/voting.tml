@@ -1,0 +1,16 @@
+class WorldClass {
+subparts Person[42];
+}
+
+class Person {
+subclasses Democrat 4.88693, Republican -4.88693;
+relations HandicappedInfants() -0.340171, WaterProjectCostSharing() -0.18091, AdoptionOfTheBudgetResolution() 0.102774, PhysicianFeeFreeze() 2.5034, ElSalvadorAid() 0.234037, ReligiousGroupsInSchools() 0.355908, AntiSatelliteTestBan() 0.202104, AidToNicaraguanContras() 0.028662, MxMissile() 0.00662899, Immigration() 0.206996, SynfuelsCorporationCutback() -0.678848, EducationSpending() -0.0495728, SuperfundRightToSue() 0.10371, Crime() 1.20727, DutyFreeExports() -0.385864, ExportAdministrationActSouthAfrica() 1.38214;
+}
+
+class Democrat {
+relations HandicappedInfants() 0.558471, WaterProjectCostSharing() -0.170664, AdoptionOfTheBudgetResolution() 1.72017, PhysicianFeeFreeze() -6.47133, ElSalvadorAid() -1.67775, ReligiousGroupsInSchools() -0.640424, AntiSatelliteTestBan() 1.1084, AidToNicaraguanContras() 1.48797, MxMissile() 1.44816, Immigration() -0.0807532, SynfuelsCorporationCutback() 0.693896, EducationSpending() -1.75545, SuperfundRightToSue() -0.955042, Crime() -1.7954, DutyFreeExports() 0.961505, ExportAdministrationActSouthAfrica() 2.09091;
+}
+
+class Republican {
+relations HandicappedInfants() -0.898642, WaterProjectCostSharing() -0.0102457, AdoptionOfTheBudgetResolution() -1.6174, PhysicianFeeFreeze() 8.97473, ElSalvadorAid() 1.91179, ReligiousGroupsInSchools() 0.996332, AntiSatelliteTestBan() -0.906297, AidToNicaraguanContras() -1.45931, MxMissile() -1.44154, Immigration() 0.287749, SynfuelsCorporationCutback() -1.37274, EducationSpending() 1.70588, SuperfundRightToSue() 1.05875, Crime() 2.99267, DutyFreeExports() -1.34737, ExportAdministrationActSouthAfrica() 0.708776;
+}
